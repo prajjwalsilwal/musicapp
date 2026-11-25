@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dev-dist/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+
+# Server data: your music, playlists and library index
+apps/server/data/
